@@ -1,5 +1,3 @@
----
-
 # Hospital Registry Service
 
 ## Overview
